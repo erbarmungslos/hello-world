@@ -1,3 +1,4 @@
+import test
 from unittest import TestCase
 from test import sum
 
