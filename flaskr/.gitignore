@@ -1,0 +1,7 @@
+MANIFEST
+dist/
+flaskr.egg-info/
+flaskr/config.cfg
+flaskr/bin
+flaskr/include
+flaskr/lib
