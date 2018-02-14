@@ -13,4 +13,4 @@ setup(
         'flask_sqlalchemy',
         'psycopg2'
     ]
-)11
+)
