@@ -1,0 +1,1 @@
+Tes exercise. Simple Flask + Sqlalchemy in one docker container + postgresql in different

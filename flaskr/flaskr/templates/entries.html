@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {% for ent in entries -%}
+    <div>
+        <div> {{ ent.id }}</div>
+        <div>{{ ent.title }}</div>
+        <div>{{ ent.text }}</div>
+    </div>
+    <hr/>
+    {%- endfor %}
+</body>
+</html>

@@ -1,0 +1,4 @@
+graft flaskr/templates
+graft flaskr/static
+include flaskr/config.cfg
+include flaskr/schema1.sql
